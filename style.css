@@ -71,14 +71,31 @@ body{
   text-align: center;
   width: 400px;     
   height: auto;   
+  border: 90px solid #53CBF3;
 }
 .sosmed2 {
   display: flex;
-  justify-content: center; /* horizontal */
-  align-items: center;     /* vertical (optional) */
+  justify-content: center; 
+  align-items: center;     
   
 }
 .sosmed2 h2 {
   font-family: 'Bungee', sans-serif;
-  color:;  /* Change to your desired font */
+  color:#b9ddfe;  
+  .sosmed2 {
+  background-color: #53CBF3; 
+  padding: 30px;
+  text-align: center;
 }
+}
+img {
+    border: 2px solid #53CBF3;
+}
+.gambar-border {
+    border: 2px solid #53CBF3;
+}
+.gambar-border {
+    border: 2px solid #3498db;
+    border-radius: 8px;
+}
+
